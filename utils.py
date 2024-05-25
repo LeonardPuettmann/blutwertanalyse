@@ -1,7 +1,6 @@
 # Standard library imports
 import base64
 import json
-import os
 import re
 import io
 
