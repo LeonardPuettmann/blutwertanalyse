@@ -6,3 +6,4 @@ PyMuPDF
 tqdm
 openpyxl
 tabulate
+XlsxWriter
