@@ -12,9 +12,6 @@ from azure.core.credentials import AzureKeyCredential
 from azure.ai.formrecognizer import DocumentAnalysisClient
 import streamlit as st
 
-# Pillow (PIL) imports
-from PIL import Image
-
 # PyMuPDF import
 import fitz
 
